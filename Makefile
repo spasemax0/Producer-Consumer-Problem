@@ -10,4 +10,4 @@ clean:
 	 rm *.class
 
 package:
-	 zip -r Spase-Sandoval-HW4.zip $(FILES) makefile README.txt
+	 zip -r $(FILES) makefile README.txt
